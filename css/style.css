@@ -1,3 +1,24 @@
+/* RESET */
 *{
-    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER */
+.container{
+    height: 100px;
+    line-height: 100px;
+}
+
+.container img{
+    margin-left: 20px;
+    height: 60px;
+    vertical-align: middle;
+}
+
+.container span{
+    vertical-align: middle;
+    font-size: 50px;
 }
